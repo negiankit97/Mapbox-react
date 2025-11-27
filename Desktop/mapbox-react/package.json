@@ -6,7 +6,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-map-gl": "^5.0.3",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "set \"REACT_APP_MAP_TOKEN=pk.eyJ1IjoiY2lwaGVyOTciLCJhIjoiY2p4NmV5bDd0MDJqYTQ5cnQ2MTUxd250MiJ9.SyllBAOOnxxSyv-dcfTGaQ\" && react-scripts start",
